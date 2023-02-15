@@ -129,3 +129,4 @@ package-lock.json
 .idea
 tmp
 .vscode
+config.bat
