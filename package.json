@@ -55,7 +55,6 @@
     "bcrypt": "^5.1.0",
     "better-npm-run": "^0.1.1",
     "cloudinary": "^1.33.0",
-    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-fileupload": "^1.4.0",
     "express-session": "^1.17.3",
@@ -64,6 +63,7 @@
     "joi-password": "^4.0.0",
     "jsonwebtoken": "^9.0.0",
     "jwt-redis": "^7.0.3",
+    "node-cron": "^3.0.2",
     "nodemailer": "^6.9.1",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",
@@ -73,6 +73,7 @@
     "redis": "^4.6.4",
     "sequelize": "^6.28.0",
     "sinon": "^15.0.1",
+    "socket.io": "^4.5.3",
     "supertest": "^6.3.3",
     "swagger-ui-express": "^4.6.0",
     "uuid": "^9.0.0"
